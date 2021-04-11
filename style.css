@@ -1,0 +1,65 @@
+
+
+
+body {
+    font: normal 15pt Georgia;
+    margin: 0;
+}
+
+
+header {
+    color:white;
+    text-align: center;
+}
+
+h1 {
+    
+    text-shadow: 5px 5px 10px grey;
+}
+
+a {
+    color: rgb(255, 255, 255);
+}
+
+#msg {
+    margin-top: 32px;
+    color: rgb(90, 90, 90);
+    font-size: 24px;
+}
+
+
+section {
+    
+    background: white;
+    border-radius: 10px;
+    padding: 30px 10px;
+    width: 800px;
+    max-width: calc(100% - 48px);
+    margin: auto;
+    box-shadow: 5px 5px 10px grey;
+    
+}
+
+.quadrado img {
+    max-width: 250px;
+    max-height: 250px;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+    display: none;
+    margin: 0 auto;
+}
+div {
+    text-align: center;
+}
+img {
+    border-radius: 50px;
+
+}
+footer {
+
+    color:white;
+    text-align: center;
+    font-style: italic;
+}
